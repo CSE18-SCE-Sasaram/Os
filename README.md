@@ -8,4 +8,4 @@ On the basis of our conceptual understanding of Operating System. We have to imp
 **4. Memory Management,**
 **5. File Management.**
 # Programming Language
-C, C Plus
+**C**, **C++**
