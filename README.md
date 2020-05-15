@@ -7,3 +7,5 @@ On the basis of our conceptual understanding of Operating System. We have to imp
 **3. Dead_Lock,**
 **4. Memory Management,**
 **5. File Management.**
+# Programming Language
+C, C Plus
