@@ -10,5 +10,5 @@ On the basis of our conceptual understanding of Operating System. We have to imp
 # Programming Language
 **C**, **C++**
 # Contribution Policy
-*1. Go to particular branche(cpu scheduling, memory management, etc), create related algorithm.*
+*1. Go to particular branch(cpu scheduling, memory management, etc), create related algorithm.*
 *2. Ganerate pull request for that algorithms.*
