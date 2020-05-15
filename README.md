@@ -9,3 +9,6 @@ On the basis of our conceptual understanding of Operating System. We have to imp
 **5. File Management.**
 # Programming Language
 **C**, **C++**
+# Contribution Policy
+*1. Go to particular branche(cpu scheduling, memory management, etc), create related algorithm.*
+*2. Ganerate pull request for that algorithms.*
