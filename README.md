@@ -1,9 +1,9 @@
 # Os
 Repository to store all important source code of Oprating System.
-#objective
+# objective
 On the basis of our conceptual understanding of Operating System. We have to implement Source Code of same important algorithms of these topics.
-*CPU scheduling*
-*Inter-process communication*
-*Dead_Lock*
-*Memory Management*
-*File Management*
+**1. CPU scheduling**
+**2. Inter-process communication**
+**3. Dead_Lock**
+**4. Memory Management**
+**5. File Management**
