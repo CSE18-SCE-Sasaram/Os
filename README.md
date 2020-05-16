@@ -1,4 +1,4 @@
-# Os
+# Project
 + Repository to store all important source code of Oprating System.
 # Objective
 + *This project is only for learning purpose.*
