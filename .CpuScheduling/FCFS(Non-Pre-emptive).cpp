@@ -66,6 +66,6 @@ int main()
     int  burst_time[] = {21, 3, 6, 2};
  
     findAverageTime(processes, n,  burst_time);
-    
+    m
     return 0;
 }
