@@ -5,7 +5,7 @@ of FCFS scheduling */
 
 using namespace std;
  
-// function to find the waiting time for all processes
+// function to find the waiting time for all processes  
 void findWaitingTime(int processes[], int n, int bt[], int wt[])
 {
     // waiting time for first process will be 0
